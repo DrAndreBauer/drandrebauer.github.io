@@ -7,7 +7,7 @@ first_name: André
 middle_name:
 last_name: Bauer
 actitle: Dr. rer. nat.
-email: andrebauer@uchicago.edu
+email: andre.bauer@iit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   About a computer scientist.
 footer_text: >
