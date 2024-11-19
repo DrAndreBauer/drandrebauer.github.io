@@ -127,6 +127,32 @@ td.news-date {
   font-weight: bold;
 }
 
+/*****************************************************************************
+* Course
+*****************************************************************************/
+.info {
+  display: flex;
+  flex-direction: column; /* Stack rows vertically */
+  gap: 1rem; /* Space between rows */
+}
+
+.info-row {
+  display: flex;
+  justify-content: flex-start; /* Align items to the start */
+  align-items: center; /* Vertically align items */
+}
+
+.info-label {
+  flex: 0 0 100px; /* Fixed width for the label */
+  font-weight: bold;
+  text-align: left;
+}
+
+.info-value {
+  flex: 1; /* Flexible space for the value */
+  text-align: left;
+}
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
