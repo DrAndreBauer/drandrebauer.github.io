@@ -11,6 +11,12 @@ layout: default
           <article>
 
                   {{ content }}
+              
+            {% for item in site.teaching %}
+                <div class="item">
+                  <h2>{{ item.title }}</h2>
+                </div>
+            {% endfor %}
 
             <div class="cv">
                 {% for entry in site.data.teaching %}
