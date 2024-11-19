@@ -18,7 +18,7 @@ layout: default
                   <div>
                     <ul class="card-text font-weight-light list-group list-group-flush">
                       {% for course in site.teaching %}
-                        {% if item.tags contains 'current' %}
+                        {% if course.tags contains 'current' %}
                             {% assign course_redirect = course.redirect %}
                             {% assign course_path = course.url | relative_url %}
                             <li class="list-group-item">
