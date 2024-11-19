@@ -18,6 +18,8 @@ layout: default
                   <div>
                     <ul class="card-text font-weight-light list-group list-group-flush">
                       {% for course in site.teaching %}
+                        {% assign course_redirect = course.redirect %}
+                        {% assign course_path = post.url | relative_url %}
                         <li class="list-group-item">
                           <div class="row">
                             <div class="col-xs-6 cl-sm-2 col-md-2 text-center">
@@ -26,7 +28,11 @@ layout: default
                               </span>
                             </div>
                             <div class="col-xs-7 cl-sm-7 col-md-7 mt-2 mt-md-0">
-                              <h6 class="title font-weight-bold ml-1 ml-md-4">{{ course.title }}</h6>
+                                {% if post_redirect %}
+                                  <a href="{{ course_redirect }}" class="title font-weight-normal ml-1 ml-md-4" target="_blank">{{ course.title }}</a>
+                                {%- else -%}
+                                  <a href="{{ course_path }}" class="title font-weight-normal ml-1 ml-md-4">{{ course.title }}</a>
+                                {%- endif %}
                             </div>
                             <div class="col-xs-6 cl-sm-3 col-md-3 text-center">
                               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{ course.level }}</h6>
