@@ -143,7 +143,7 @@ td.news-date {
 }
 
 .info-label {
-  flex: 0 0 100px; /* Fixed width for the label */
+  flex: 0 0 150px; /* Fixed width for the label */
   font-weight: bold;
   text-align: left;
 }
