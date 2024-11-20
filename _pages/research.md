@@ -8,7 +8,7 @@ nav_order: 2
 
 My work focuses on advancing the potential of data science in scientific computing through the development of robust, efficient, and sustainable system solutions. As scientific research becomes increasingly reliant on data-driven approaches, the need to effectively manage and utilize complex data science ecosystems has never been more pressing. By addressing challenges in system design, performance engineering, and interdisciplinary collaboration, my research aims to bridge the gap between data science and systems engineering to optimize scientific computing infrastructures for emerging applications.
 
-## Addressing Key Challenges in Data Science Ecosystems
+### Addressing Key Challenges in Data Science Ecosystems
 
 My research directly addresses several critical challenges in data science ecosystems:
 
@@ -18,7 +18,7 @@ My research directly addresses several critical challenges in data science ecosy
 * __System-Level Optimization__: The complexity of optimizing configurations across interconnected components within data science ecosystems remains a significant challenge. This includes benchmarking data science clouds, container orchestration platforms, and other key infrastructure components. Effective optimization requires developing standardized methodologies to evaluate system performance, ensuring that the entire ecosystem functions efficiently.
 * __Sustainable Data Science__: The environmental impact of computational systems is a growing concern. Research in sustainable data science focuses on improving the energy efficiency of machine learning models and deep learning systems, which are often computationally intensive. Developing benchmarks for energy-efficient AI and data analytics is key to reducing the carbon footprint of modern data science applications.
 
-## A Translational and Interdisciplinary Approach
+### A Translational and Interdisciplinary Approach
 
 My research is characterized by its translational focus, turning theoretical advancements into practical solutions. Through interdisciplinary collaboration, I tackle complex problems by working with experts across various fields. This approach is exemplified in my partnerships with healthcare institutions, such as the University Hospital Würzburg and The Paracelsus Medical University in Salzburg, where we combine expertise to address real-world challenges.
 
