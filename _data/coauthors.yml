@@ -1,34 +1,85 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Sakarvadia":
+  - firstname: ["Mansi", "M."]
+    url: https://msakarvadia.github.io
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Ajith":
+  - firstname: ["Aswathy", "A"]
+    url: https://aswathyajith.github.io
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Khan":
+  - firstname: ["Arham", "A."]
+    url: https://www.linkedin.com/in/arham-khan-957315167/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Grzenda":
+  - firstname: ["Daniel", "D."]
+    url: https://www.linkedin.com/in/danielgrzenda/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Hudson":
+  - firstname: ["Nathaniel", "N."]
+    url: https://nathaniel-hudson.github.io
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Pan":
+  - firstname: ["Haochen", "H."]
+    url: https://sites.google.com/view/haochenpan/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Babuji":
+  - firstname: ["Yadu", "Y.", "Yadu N.", "Y. N."]
+    url: https://yadunand.com
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Bryan":
+  - firstname: ["Joshua", "J", "Josh"]
+    url: https://www.linkedin.com/in/joshuaabryan/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Tiwari":
+  - firstname: ["Devesh", "D"]
+    url: https://coe.northeastern.edu/people/tiwari-devesh/
+
+"Chard":
+  - firstname: ["Kyle", "K."]
+    url: https://kylechard.com
+  - firstname: [ "Ryan", "R." ]
+    url: https://www.linkedin.com/in/ryan-chard-59682b25/?originalSubdomain=nz
+
+"Foster":
+  - firstname: ["Ian", "I", "Ian Tremere", "I. T."]
+    url: http://www.ianfoster.org/wordpress/
+
+"Leznik":
+  - firstname: ["Mark", "M."]
+    url: https://www.uni-ulm.de/in/omi/institut/persons/mark-leznik/
+
+"Grohmann":
+  - firstname: ["Johannes", "J."]
+    url: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/johannes-grohmann/
+
+"Seybold":
+  - firstname: ["Daniel", "D."]
+    url: https://www.linkedin.com/in/seybold-benchant/?originalSubdomain=de
+
+"Eismann":
+  - firstname: ["Simon", "S."]
+    url: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/simon-eismann/
+
+"Kounev":
+  - firstname: ["Samuel", "S."]
+    url: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
+
+"Domaschka":
+  - firstname: ["Jörg", "J."]
+    url: https://www.linkedin.com/in/jörg-domaschka-3b0008200/?originalSubdomain=de
+
+"Straesser":
+  - firstname: ["Martin", "M."]
+    url: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/martin-straesser/
+
+"Kistowski":
+  - firstname: ["Jóakim", "Jóakim von", "Jóakim v", "J. v."]
+    url: https://www.linkedin.com/in/joakimkistowski/?originalSubdomain=de
+
+"Züfle":
+  - firstname: ["Marwin", "M."]
+    url: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/marwin-zuefle/
+
+"Herbst":
+  - firstname: ["Nikolas", "N."]
+    url: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
