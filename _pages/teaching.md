@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: teaching
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I believe the future can be shaped by research and educating the next generation, making teaching a vital part of my academic life. As a researcher and lecturer, I aim to inspire students with a balance of scientific theory and practical knowledge. Theoretical foundations help them grasp current and emerging technologies, while practical insights connect them to real-world applications and research. Additionally, I strive to foster a learning environment that values diversity, equity, and inclusion.
