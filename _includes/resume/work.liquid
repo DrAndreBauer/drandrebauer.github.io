@@ -7,8 +7,12 @@
           {% if content.startDate %}
             {% assign startDateParts = content.startDate | split: '-' %}
             {% assign startDate = startDateParts[1] | append: '/' | append: startDateParts[0] %}
-            {% assign endDateParts = content.endDate | split: '-' %}
-            {% assign endDate = endDateParts[1] | append: '/' | append: startDateParts[0] %}
+            {% if content.endDate %}
+                {% assign endDateParts = content.endDate | split: '-' %}
+                {% assign endDate = endDateParts[1] | append: '/' | append: endDateParts[0] %}
+            {% else %}
+                {% assign endDate = 'Present' %}
+            {% endif %}
             {% assign date = startDate | append: ' - ' %}
             {% assign date = date | append: endDate %}
           {% else %}
