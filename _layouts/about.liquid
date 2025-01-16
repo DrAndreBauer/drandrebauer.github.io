@@ -3,73 +3,87 @@ layout: default
 ---
 Welcome!
 {% if page.profile -%}
-{%- if page.profile.image %} {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%} {% if page.profile.image_circular %} {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%} {% else %} {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%} {% endif %} {% include figure.html path=profile_image_path class=profile_image_class alt=page.profile.image -%} {% endif -%}
-{{ site.actitle }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
-	•	{% if page.profile.location %}
-	•	{{ page.profile.location }}
-	•	{% endif %} {% if page.profile.employer %}
-	•	{{ page.profile.employer }}
-	•	{% endif %} {% if page.profile.uri %}
-	•	University website
-	•	{% endif %} {% if page.profile.email %}
-	•	Email
-	•	{% endif %} {% if page.profile.keybase %}
-	•	Keybase
-	•	{% endif %} {% if page.profile.researchgate %}
-	•	ResearchGate
-	•	{% endif %} {% if page.profile.twitter %}
-	•	Twitter
-	•	{% endif %} {% if page.profile.facebook %}
-	•	Facebook
-	•	{% endif %} {% if page.profile.google_plus %}
-	•	Google+
-	•	{% endif %} {% if page.profile.linkedin %}
-	•	LinkedIn
-	•	{% endif %} {% if page.profile.xing %}
-	•	XING
-	•	{% endif %} {% if page.profile.instagram %}
-	•	Instagram
-	•	{% endif %} {% if page.profile.tumblr %}
-	•	Tumblr
-	•	{% endif %} {% if page.profile.bitbucket %}
-	•	Bitbucket
-	•	{% endif %} {% if page.profile.github %}
-	•	Github
-	•	{% endif %} {% if page.profile.stackoverflow %}
-	•	Stackoverflow
-	•	{% endif %} {% if page.profile.lastfm %}
-	•	Last.fm
-	•	{% endif %} {% if page.profile.dribbble %}
-	•	Dribbble
-	•	{% endif %} {% if page.profile.pinterest %}
-	•	Pinterest
-	•	{% endif %} {% if page.profile.foursquare %}
-	•	Foursquare
-	•	{% endif %} {% if page.profile.steam %}
-	•	Steam
-	•	{% endif %} {% if page.profile.youtube %}
-	•	YouTube
-	•	{% endif %} {% if page.profile.soundcloud %}
-	•	Soundcloud
-	•	{% endif %} {% if page.profile.weibo %}
-	•	Weibo
-	•	{% endif %} {% if page.profile.flickr %}
-	•	Flickr
-	•	{% endif %} {% if page.profile.codepen %}
-	•	CodePen
-	•	{% endif %} {% if page.profile.vine %}
-	•	Vine
-	•	{% endif %} {% if page.profile.googlescholar %}
-	•	Google Scholar
-	•	{% endif %} {% if page.profile.pubmed %}
-	•	PubMed
-	•	{% endif %} {% if page.profile.orcid %}
-	•	ORCID
-	•	{% endif %} {% if page.profile.impactstory %}
-	•	Impactstory
-	•	{% endif %} {% if page.profile.wikipedia %}
-	•	Wikipedia
-	•	{% endif %}
+    {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1
+      rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+      30vw, 95vw"{% endcapture %}
+          {%
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            cache_bust=true
+          %}
+        {% endif %}
+        {{ site.actitle }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+		{% if page.profile.location %}
+		{{ page.profile.location }}
+		{% endif %} {% if page.profile.employer %}
+		{{ page.profile.employer }}
+		{% endif %} {% if page.profile.uri %}
+		University website
+		{% endif %} {% if page.profile.email %}
+		Email
+		{% endif %} {% if page.profile.keybase %}
+		Keybase
+		{% endif %} {% if page.profile.researchgate %}
+		ResearchGate
+		{% endif %} {% if page.profile.twitter %}
+		Twitter
+		{% endif %} {% if page.profile.facebook %}
+		Facebook
+		{% endif %} {% if page.profile.google_plus %}
+		Google+
+		{% endif %} {% if page.profile.linkedin %}
+		LinkedIn
+		{% endif %} {% if page.profile.xing %}
+		XING
+		{% endif %} {% if page.profile.instagram %}
+		Instagram
+		{% endif %} {% if page.profile.tumblr %}
+		Tumblr
+		{% endif %} {% if page.profile.bitbucket %}
+		Bitbucket
+		{% endif %} {% if page.profile.github %}
+		Github
+		{% endif %} {% if page.profile.stackoverflow %}
+		Stackoverflow
+		{% endif %} {% if page.profile.lastfm %}
+		Last.fm
+		{% endif %} {% if page.profile.dribbble %}
+		Dribbble
+		{% endif %} {% if page.profile.pinterest %}
+		Pinterest
+		{% endif %} {% if page.profile.foursquare %}
+		Foursquare
+		{% endif %} {% if page.profile.steam %}
+		Steam
+		{% endif %} {% if page.profile.youtube %}
+		YouTube
+		{% endif %} {% if page.profile.soundcloud %}
+		Soundcloud
+		{% endif %} {% if page.profile.weibo %}
+		Weibo
+		{% endif %} {% if page.profile.flickr %}
+		Flickr
+		{% endif %} {% if page.profile.codepen %}
+		CodePen
+		{% endif %} {% if page.profile.vine %}
+		Vine
+		{% endif %} {% if page.profile.googlescholar %}
+		Google Scholar
+		{% endif %} {% if page.profile.pubmed %}
+		PubMed
+		{% endif %} {% if page.profile.orcid %}
+		ORCID
+		{% endif %} {% if page.profile.impactstory %}
+		Impactstory
+		{% endif %} {% if page.profile.wikipedia %}
+		Wikipedia
+		{% endif %}
 {%- endif %}
 
     <div class="clearfix">{{ content }}</div>
