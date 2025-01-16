@@ -2,9 +2,9 @@
 layout: page
 permalink: /news/
 title: News
+description: All News are in reversed chronological order.
 nav: true
 nav_order: 5
 ---
-All news are listed in reversed chronological order.
 
 {% include news.liquid %}

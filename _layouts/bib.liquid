@@ -140,6 +140,13 @@
       {{ entry.note | strip }}
     </div>
 
+    <div class="periodical">
+      {%- if entry.award -%}
+        <i class="fas fa-trophy"></i>&nbsp;
+      {%- endif -%}
+      {{ entry.note | strip }}
+    </div>
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
@@ -156,7 +163,28 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
-      {% if entry.bibtex_show %}
+      {% assign path = "_publications/" | append: entry.key | append: ".md" %}
+
+      {% assign post_found = false %}
+
+      {% for post in site.publications %}
+        {% if post.key ==  entry.key  %}
+          {% assign post_found = true %}
+          {% assign post_path = post.url | relative_url %}
+          {% assign post_redirect = post.redirect %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% if post_found and page.showbib %}
+        {% if post_redirect %}
+          <a href="{{ post_redirect }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Read more</a>
+        {%- else -%}
+          <a href="{{ post_path }}" class="btn btn-sm z-depth-0" role="button">Read more</a>
+        {%- endif %}
+
+      {% endif %}
+      {% if page.showbib or entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
       {% if entry.html %}
@@ -205,7 +233,7 @@
           <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
         {% endif %}
       {% endif %}
-      {% if entry.website %}
+      {% if page.showbib and entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
@@ -292,13 +320,6 @@
           {% endif %}
         </div>
       {% endif %}
-    {% endif %}
-
-    {% if entry.award %}
-      <!-- Hidden Award block -->
-      <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
-      </div>
     {% endif %}
 
     {% if entry.abstract %}
