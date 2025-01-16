@@ -6,20 +6,25 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: me.jpg
+  image_circular: true # crops the image to make it circular
+  location: Illinois Institute of Technology, US
+  email: andre.bauer@iit.edu
+  googlescholar: https://scholar.google.de/citations?user=E8LJS8UAAAAJ&hl
+  uri: https://www.iit.edu/directory/people/andre-bauer
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor in the Department of Computer Science at the Illinois Institute of Technology and the founder and elected chair of the [SPEC RG Predictive Data Analytics Working Group](https://research.spec.org/working-groups/rg-predictive-data-analytics/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The overarching goal of my research is to expand the potential of data science in scientific computing by designing robust, efficient, and sustainable system solutions tailored to the evolving needs of data-driven science. As scientific progress increasingly depends on the effective use of data science ecosystems, the diversity of hardware architectures, application demands, and usage patterns poses significant challenges. My work addresses these complexities through a focus on systems and performance engineering, leveraging interdisciplinary expertise to optimize and adapt scientific computing infrastructures for emerging data science applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In particular, I see the following key challenges that need to be addressed:
+* __Resource Optimization__: Efficiently allocating and managing resources across diverse hardware platforms to accommodate changing, data-intensive workloads.
+* __Adaptive Systems__: Developing systems that can dynamically adapt to evolving data and model requirements.
+* __Data Security and Privacy__: Safeguarding sensitive data while enabling collaborative data science.
+* __System-Level Optimization__: Optimizing the complex interplay of components within data science ecosystems for maximum performance.
+* __Sustainable Computing__: Minimizing the environmental impact of data science practices.

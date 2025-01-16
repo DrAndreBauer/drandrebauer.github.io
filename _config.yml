@@ -196,6 +196,9 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
   projects:
     output: true
     permalink: /:collection/:title/
