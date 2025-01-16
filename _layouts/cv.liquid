@@ -85,6 +85,8 @@ layout: default
             <h3 class="card-title font-weight-medium">Academic Career</h3>
                 {% when 'awards' %}
             <h3 class="card-title font-weight-medium">Awards, Fellowships, and Scholarships</h3>
+                {% when 'service' %}
+            <h3 class="card-title font-weight-medium">Academic Service</h3>
                 {% else %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             {% endcase %}
