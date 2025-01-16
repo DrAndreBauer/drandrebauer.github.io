@@ -154,169 +154,169 @@
   }
   ],
   "service": [
-    {
+  {
       "title": "Founder and chair of the SPEC Predictive Data Analytics Group",
-      "where": "SPEC Research Group",
+      "institution": "SPEC Research Group",
       "year": "since 06/2021"
     },
     {
       "title": "Organization committee",
-      "where": "The Eight Workshop on Hot Topics in Cloud Computing Performance 2025",
+      "institution": "The Eight Workshop on Hot Topics in Cloud Computing Performance 2025",
       "year": "since 09/2024"
     },
     {
       "title": "Program committee",
-      "where": "International conference on Data Science Technology and Applications 2025",
+      "institution": "International conference on Data Science Technology and Applications 2025",
       "year": "since 09/2024"
     },
     {
       "title": "Organization committee (posters)",
-      "where": "International Conference on e-Science 2024",
+      "institution": "International Conference on e-Science 2024",
       "year": "07/2024 - 09/2024"
     },
     {
       "title": "Program committee",
-      "where": "Symposium on Software Performance 2024",
+      "institution": "Symposium on Software Performance 2024",
       "year": "07/2024 - 09/2024"
     },
     {
       "title": "Organization committee (data challenge)",
-      "where": "International Conference on Performance Engineering 2025",
+      "institution": "International Conference on Performance Engineering 2025",
       "year": "since 07/2024"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on Performance Engineering 2025",
+      "institution": "International Conference on Performance Engineering 2025",
       "year": "since 06/2024"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on e-Science 2024",
+      "institution": "International Conference on e-Science 2024",
       "year": "04/2024 - 07/2024"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on Autonomic Computing and Self-Organizing Systems 2024",
+      "institution": "International Conference on Autonomic Computing and Self-Organizing Systems 2024",
       "year": "03/2024 - 09/2023"
     },
     {
       "title": "Program committee",
-      "where": "International conference on Time Series and Forecasting 2024",
+      "institution": "International conference on Time Series and Forecasting 2024",
       "year": "01/2024 - 07/2024"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on Performance Engineering 2024",
+      "institution": "International Conference on Performance Engineering 2024",
       "year": "12/2023 - 05/2024"
     },
     {
       "title": "Program committee (artifact evaluation)",
-      "where": "International Symposium on Cluster, Cloud and Internet Computing 2024",
+      "institution": "International Symposium on Cluster, Cloud and Internet Computing 2024",
       "year": "11/2023 - 05/2024"
     },
     {
       "title": "Program committee",
-      "where": "International conference on Data Science Technology and Applications 2024",
+      "institution": "International conference on Data Science Technology and Applications 2024",
       "year": "11/2023 - 06/2024"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on Cloud Computing and Services Science 2024",
+      "institution": "International Conference on Cloud Computing and Services Science 2024",
       "year": "08/2023 - 05/2024"
     },
     {
       "title": "Organization committee (posters and demos)",
-      "where": "International Conference on Performance Engineering 2024",
+      "institution": "International Conference on Performance Engineering 2024",
       "year": "08/2023 - 05/2024"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on Utility and Cloud Computing 2024",
+      "institution": "International Conference on Utility and Cloud Computing 2024",
       "year": "07/2023 - 12/2023"
     },
     {
       "title": "Program committee",
-      "where": "Symposium on Software Performance 2023",
+      "institution": "Symposium on Software Performance 2023",
       "year": "06/2023 - 11/2023"
     },
     {
       "title": "Program committee (posters and demos)",
-      "where": "International Conference on Autonomic Computing and Self-Organizing Systems 2023",
+      "institution": "International Conference on Autonomic Computing and Self-Organizing Systems 2023",
       "year": "05/2023 - 09/2023"
     },
     {
       "title": "Program committee",
-      "where": "International conference on Data Science Technology and Applications 2023",
+      "institution": "International conference on Data Science Technology and Applications 2023",
       "year": "03/2023 - 07/2023"
     },
     {
       "title": "Program committee",
-      "where": "International conference on Time Series and Forecasting 2023",
+      "institution": "International conference on Time Series and Forecasting 2023",
       "year": "02/2023 - 07/2023"
     },
     {
       "title": "Elected editor of the annual newsletter",
-      "where": "SPEC Research Group",
+      "institution": "SPEC Research Group",
       "year": "04/2017 - 05/2023"
     },
     {
       "title": "Program committee",
-      "where": "International Symposium on Cluster, Cloud and Internet Computing 2023",
+      "institution": "International Symposium on Cluster, Cloud and Internet Computing 2023",
       "year": "11/2022 - 05/2023"
     },
     {
       "title": "Organization committee",
-      "where": "The Second International Workshop on Performance-Data Analytics and Data-Management",
+      "institution": "The Second International Workshop on Performance-Data Analytics and Data-Management",
       "year": "10/2022 - 02/2023"
     },
     {
       "title": "Program committee",
-      "where": "International Conference on Utility and Cloud Computing 2022",
+      "institution": "International Conference on Utility and Cloud Computing 2022",
       "year": "06/2022 - 12/2022"
     },
     {
       "title": "Program committee (posters and demos)",
-      "where": "International Conference on Autonomic Computing and Self-Organizing Systems 2022",
+      "institution": "International Conference on Autonomic Computing and Self-Organizing Systems 2022",
       "year": "06/2022 - 09/2022"
     },
     {
       "title": "Program committee",
-      "where": "Symposium on Software Performance 2022",
+      "institution": "Symposium on Software Performance 2022",
       "year": "04/2022 - 11/2022"
     },
     {
       "title": "Program committee",
-      "where": "International conference on Time Series and Forecasting 2022",
+      "institution": "International conference on Time Series and Forecasting 2022",
       "year": "04/2022 - 07/2022"
     },
     {
       "title": "Organization committee",
-      "where": "The First International Workshop on Performance-Data Analytics and Data-Management",
+      "institution": "The First International Workshop on Performance-Data Analytics and Data-Management",
       "year": "10/2021 - 04/2022"
     },
     {
       "title": "Elected release manager of the RG Cloud Working Group",
-      "where": "SPEC Research Group",
+      "institution": "SPEC Research Group",
       "year": "10/2018 - 05/2021"
     },
     {
       "title": "Program committee (artifact evaluation)",
-      "where": "International Conference on Performance Engineering 2020",
+      "institution": "International Conference on Performance Engineering 2020",
       "year": "03/2019 - 04/2020"
     },
     {
       "title": "Publicity chair",
-      "where": "International Conference on Performance Engineering 2020",
+      "institution": "International Conference on Performance Engineering 2020",
       "year": "11/2018 - 04/2020"
     },
     {
       "title": "Program committee",
-      "where": "Workshop on Evaluations and Measurements in Self-Aware Computing Systems 2019",
+      "institution": "Workshop on Evaluations and Measurements in Self-Aware Computing Systems 2019",
       "year": "01/2019 - 06/2019"
     },
     {
       "title": "Publicity chair",
-      "where": "Workshop on Evaluations and Measurements in Self-Aware Computing Systems 2019",
+      "institution": "Workshop on Evaluations and Measurements in Self-Aware Computing Systems 2019",
       "year": "01/2019 - 06/2019"
     }
   ]
