@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-<details>
+<details markdown="1">
 
 <summary>PhD Position in Performance Engineering for Containerized System & Serverless Computing</summary>
 
