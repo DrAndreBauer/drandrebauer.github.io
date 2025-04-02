@@ -136,11 +136,11 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
+    <div class="title">
       {{ entry.note | strip }}
     </div>
 
-    <div class="periodical">
+    <div class="title">
       {%- if entry.award -%}
         <i class="fas fa-trophy"></i>&nbsp;
       {%- endif -%}
@@ -149,7 +149,7 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
+      {% if entry.awarded %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
