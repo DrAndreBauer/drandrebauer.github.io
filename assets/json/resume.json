@@ -97,6 +97,13 @@
 ,
   "awards": [
   {
+    "title": "Teacher of the Year Award",
+    "date": "2025-04-30",
+    "awarder": "German Academic International Network (GAIN)",
+    "url": "",
+    "summary": "The GAIN conference connects internationally mobile German scientists with representatives from the scientific community, politics, and industry."
+  },
+  {
     "title": "GAIN Participation Grant",
     "date": "2023-05-01",
     "awarder": "German Academic International Network (GAIN)",
@@ -160,34 +167,54 @@
       "year": "since 06/2021"
     },
     {
-      "title": "Editorial Board Member",
+      "title": "Program committee",
+      "institution": "Symposium on Software Performance 2025",
+      "year": "since 04/2025"
+    },
+    {
+      "title": "Program committee",
+      "institution": "International Conference on e-Science 2025",
+      "year": "since 04/2025"
+    },
+    {
+      "title": "Program committee",
+      "institution": "International Conference on Autonomic Computing and Self-Organizing Systems 2025",
+      "year": "since 03/2025"
+    },
+    {
+      "title": "Editorial board member",
       "institution": "MPDI Data",
       "year": "since 02/2025"
     },
     {
+      "title": "Program committee",
+      "institution": "International Conference on Service-Oriented System Engineering 2025",
+      "year": "05/2025 - 07/2025"
+    },
+    {
       "title": "Program committee (artifact evaluation)",
       "institution": "International Symposium on Cluster, Cloud and Internet Computing 2025",
-      "year": "since 01/2025"
+      "year": "03/2025 - 05/2025"
     },
     {
       "title": "Program committee",
       "institution": "Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services 2025",
-      "year": "since 11/2024"
+      "year": "11/2024 - 06/2025"
     },
     {
       "title": "Program committee",
       "institution": "International Conference on Time Series and Forecasting 2025",
-      "year": "since 11/2024"
+      "year": "11/2024 - 07/2025"
     },
     {
       "title": "Organization committee",
       "institution": "Workshop on Hot Topics in Cloud Computing Performance 2025",
-      "year": "since 09/2024"
+      "year": "09/2024 - 05/2025"
     },
     {
       "title": "Program committee",
-      "institution": "International Conference on Data Science Technology and Applications 2025",
-      "year": "since 09/2024"
+      "institution": "International Conference on Data Science, Technology and Applications 2025",
+      "year": "09/2024 - 06/2025"
     },
     {
       "title": "Organization committee (posters)",
@@ -236,7 +263,7 @@
     },
     {
       "title": "Program committee",
-      "institution": "International Conference on Data Science Technology and Applications 2024",
+      "institution": "International Conference on Data Science, Technology and Applications 2024",
       "year": "11/2023 - 06/2024"
     },
     {
@@ -266,7 +293,7 @@
     },
     {
       "title": "Program committee",
-      "institution": "International Conference on Data Science Technology and Applications 2023",
+      "institution": "International Conference on Data Science, Technology and Applications 2023",
       "year": "03/2023 - 07/2023"
     },
     {
