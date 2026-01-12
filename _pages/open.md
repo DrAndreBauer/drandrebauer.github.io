@@ -2,8 +2,7 @@
 layout: page
 permalink: /openpositions/
 title: Open Positions
-nav: true
-nav_order: 2
+nav: false
 ---
 
 
