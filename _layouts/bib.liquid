@@ -325,7 +325,7 @@
       </div>
     {% endif %}
 
-    {% if entry.bibtex_show %}
+    {% if page.showbib or entry.bibtex_show %}
       <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
         {% highlight bibtex %}
