@@ -161,25 +161,65 @@
   }
   ],
   "service": [
-  {
-      "title": "Founder and chair of the SPEC Predictive Data Analytics Group",
+    {
+      "title": "Founder and Chair, Predictive Data Analytics Group",
       "institution": "SPEC Research Group",
-      "year": "since 06/2021"
+      "year": "06/2021–present"
     },
     {
-      "title": "Program committee",
-      "institution": "Symposium on Software Performance 2025",
-      "year": "since 04/2025"
+      "title": "Program Committee",
+      "institution": "International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services 2026",
+      "year": "11/2025–present"
     },
     {
-      "title": "Program committee",
+      "title": "Program Committee",
+      "institution": "International Conference for High Performance Computing, Networking, Storage and Analysis 2026",
+      "year": "11/2025–present"
+    },
+    {
+      "title": "Program Committee",
+      "institution": "International Conference on Time Series and Forecasting 2026",
+      "year": "10/2025–present"
+    },
+    {
+      "title": "Editorial board member",
+      "institution": "ICCK Journal of Sytems Scalability",
+      "year": "since 02/2025"
+    },
+    {
+      "title": "Program Committee",
+      "institution": "International Conference on Performance Engineering 2026",
+      "year": "09/2025–present"
+    },
+    {
+      "title": "Program Committee",
+      "institution": "International Conference on Data Science, Technology and Applications 2026",
+      "year": "09/2025–present"
+    },
+    {
+      "title": "Program Committee",
+      "institution": "International Conference on Software Engineering for Adaptive and Self-Managing Systems 2026",
+      "year": "07/2025–present"
+    },
+    {
+      "title": "Program Committee",
+      "institution": "International Conference on Service-Oriented System Engineering 2025",
+      "year": "05/2025–07/2025"
+    },
+    {
+      "title": "Program Committee",
       "institution": "International Conference on e-Science 2025",
-      "year": "since 04/2025"
+      "year": "04/2025–09/2025"
     },
     {
-      "title": "Program committee",
+      "title": "Program Committee",
+      "institution": "Symposium on Software Performance 2025",
+      "year": "04/2025–09/2025"
+    },
+    {
+      "title": "Program Committee",
       "institution": "International Conference on Autonomic Computing and Self-Organizing Systems 2025",
-      "year": "since 03/2025"
+      "year": "03/2025–05/2025"
     },
     {
       "title": "Editorial board member",
