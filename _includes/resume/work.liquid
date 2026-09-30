@@ -8,7 +8,7 @@
             {% assign startDateParts = content.startDate | split: '-' %}
             {% assign startDate = startDateParts[1] | append: '/' | append: startDateParts[0] %}
             {% assign endDate = content.endDate %}
-            {% if endDate | blank %}
+            {% if endDate == nil or endDate == '' %}
                 {% assign endDate = 'Present' %}
             {% else %}
                 {% assign endDateParts = content.endDate | split: '-' %}
