@@ -5,7 +5,7 @@
     "image": "",
     "email": "andre.bauer@chicagobooth.edu",
     "phone": "",
-    "website": "https://drandrebauer.github.io",
+    "website": "https://bauer-research.net",
     "summary": "",
     "location": {
       "address": "",
@@ -47,7 +47,7 @@
     "name": "University of Chicago, Chicago, United States",
     "position": "Postdoctoral Scholar (Prof. Ian Foster)",
     "url": "",
-    "startDate": "2022-10-01",
+    "startDate": "2022-11-01",
     "endDate": "2024-08-11",
     "summary": "",
     "highlights": []
@@ -98,7 +98,7 @@
     "area": "Computer Science",
     "studyType": "Bachelor of Science",
     "startDate": "2012-10-01",
-    "endDate": "2014-09-01",
+    "endDate": "2014-09-30",
     "score": "",
     "courses": []
   }
@@ -277,8 +277,8 @@
     },
     {
       "title": "Editorial Board Member",
-      "institution": "MPDI Data",
-      "year": "since 02/2025"
+      "institution": "MDPI Data",
+      "year": "since 01/2025"
     },
     {
       "title": "Program Committee (Artifact Evaluation)",
