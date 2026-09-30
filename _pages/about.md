@@ -8,17 +8,16 @@ profile:
   align: right
   image: me.jpg
   image_circular: true # crops the image to make it circular
-  location: Illinois Institute of Technology, US
-  email: andre.bauer@iit.edu
+  location: University of Chicago Booth School of Business, US
+  email: andre.bauer@chicagobooth.edu
   googlescholar: https://scholar.google.com/citations?user=3Zm1y5CAClgC
-  uri: https://www.iit.edu/directory/people/andre-bauer
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the Department of Computer Science at the Illinois Institute of Technology and the founder and elected chair of the [SPEC RG Predictive Data Analytics Working Group](https://research.spec.org/working-groups/rg-predictive-data-analytics/).
+I am a Visiting Assistant Professor of Econometrics and Statistics at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu) and the founder and elected chair of the [SPEC RG Predictive Data Analytics Working Group](https://research.spec.org/working-groups/rg-predictive-data-analytics/).
 
 The overarching goal of my research is to expand the potential of data science in scientific computing by designing robust, efficient, and sustainable system solutions tailored to the evolving needs of data-driven science. As scientific progress increasingly depends on the effective use of data science ecosystems, the diversity of hardware architectures, application demands, and usage patterns poses significant challenges. My work addresses these complexities through a focus on systems and performance engineering, leveraging interdisciplinary expertise to optimize and adapt scientific computing infrastructures for emerging data science applications.
 

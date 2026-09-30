@@ -3,9 +3,9 @@
     "name": "André Bauer",
     "label": "",
     "image": "",
-    "email": "andre.bauer@iit.edu",
+    "email": "andre.bauer@chicagobooth.edu",
     "phone": "",
-    "website": "https://www.iit.edu/directory/people/andre-bauer",
+    "website": "https://drandrebauer.github.io",
     "summary": "",
     "location": {
       "address": "",
@@ -17,11 +17,20 @@
   },
   "work": [
   {
+    "name": "University of Chicago Booth School of Business, Chicago, United States",
+    "position": "Visiting Assistant Professor of Econometrics and Statistics",
+    "url": "",
+    "startDate": "2026-08-12",
+    "endDate": "",
+    "summary": "",
+    "highlights": []
+  },
+  {
     "name": "Illinois Institute of Technology, Chicago, United States",
     "position": "Assistant Professor",
     "url": "",
-    "startDate": "2024-08-01",
-    "endDate": "",
+    "startDate": "2024-08-12",
+    "endDate": "2026-08-11",
     "summary": "",
     "highlights": []
   },
@@ -30,7 +39,7 @@
     "position": "Associated Researcher",
     "url": "",
     "startDate": "2023-01-01",
-    "endDate": "",
+    "endDate": "2024-08-11",
     "summary": "",
     "highlights": []
   },
@@ -39,7 +48,7 @@
     "position": "Postdoctoral Scholar (Prof. Ian Foster)",
     "url": "",
     "startDate": "2022-10-01",
-    "endDate": "2024-08-01",
+    "endDate": "2024-08-11",
     "summary": "",
     "highlights": []
   },
