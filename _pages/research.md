@@ -10,7 +10,7 @@ My research makes the infrastructure behind modern AI efficient, predictable, an
 
 ### Efficient AI and Cloud Infrastructure
 
-AI and data-intensive workloads increasingly run on shared container platforms whose behavior is hard to predict and expensive to over-provision. My work analyzes and optimizes these platforms. This includes proactive and hybrid auto-scaling mechanisms that plan resources ahead of workload changes, a large-scale study of what determines container start-up times, and a systematic evaluation of Kubernetes for GenAI inference pipelines, from automatic speech recognition to LLM summarization. I also develop open datasets and scheduling strategies for function-as-a-service and multi-site computing.
+AI and data-intensive workloads increasingly run on shared container platforms whose behavior is hard to predict and expensive to over-provision. My work analyzes and optimizes these platforms. This includes proactive and hybrid auto-scaling mechanisms that plan resources ahead of workload changes, a large-scale study of what determines container start-up times, and a systematic evaluation of Kubernetes for GenAI inference pipelines, from automatic speech recognition to LLM summarization. I also develop open datasets and energy-aware scheduling and accounting for function-as-a-service and HPC systems.
 
 __Selected papers:__
 [Chameleon (TPDS 2018)](https://ieeexplore.ieee.org/document/8465991) ·
@@ -18,7 +18,7 @@ __Selected papers:__
 [Production-Ready Autoscaling (ICPE 2022)](https://dl.acm.org/doi/10.1145/3489525.3511680) ·
 [Container Start Times (CCGrid 2023)](https://ieeexplore.ieee.org/document/10171550) ·
 [Globus Compute Dataset (FGCS 2024)](https://doi.org/10.1016/j.future.2023.12.007) ·
-[Multi-Site Scheduling (IPDPS 2024)](https://ieeexplore.ieee.org/document/10596467) ·
+[Core Hours and Carbon Credits (SC 2025)](https://doi.org/10.1145/3712285.3759858) ·
 [Kubernetes for GenAI Inference (ICPE 2026)](https://doi.org/10.1145/3777884.3796983)
 
 ### Reliable AI with Guarantees

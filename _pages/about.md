@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   location: University of Chicago Booth School of Business, US
   email: andre.bauer@chicagobooth.edu
-  googlescholar: https://scholar.google.com/citations?user=3Zm1y5CAClgC
+  googlescholar: https://scholar.google.com/citations?user=E8LJS8UAAAAJ
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
