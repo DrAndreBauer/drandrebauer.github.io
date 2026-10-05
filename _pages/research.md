@@ -23,7 +23,7 @@ __Selected papers:__
 
 ### Reliable AI with Guarantees
 
-LLMs are powerful but unpredictable, which limits their use in settings where errors are costly. I develop methods that make LLM-based systems dependable without giving up their efficiency. Examples are routing queries between cheap and expensive models while keeping the error rate below a target, profiling and repairing faulty layers for fault-tolerant transformer inference, and structured inference pipelines with explicit validation and abstention for high-stakes applications.
+LLMs are powerful but unpredictable, which limits their use in settings where errors are costly. I develop methods that make LLM-based systems dependable without giving up their efficiency. Examples are routing queries between cheap and expensive models while keeping the error rate below a target, replacing transformer layers lost to node failures with precomputed linear maps, and structured inference pipelines with explicit validation and abstention for high-stakes applications.
 
 __Selected papers:__
 [Conformal LLM Routing (ACL SRW 2026)](https://aclanthology.org/2026.acl-srw.70/) ·
@@ -54,7 +54,7 @@ __Selected papers:__
 
 ### Interdisciplinary Collaborations
 
-I apply my expertise in time series analysis and machine learning together with clinical partners in cardiac surgery, for example to detect acute kidney injury early and to predict atrial fibrillation after surgery.
+I apply my expertise in time series analysis and machine learning together with cardiac surgery teams at Paracelsus Medical University in Nuremberg and Salzburg, for example to detect acute kidney injury early and to predict atrial fibrillation after surgery.
 
 __Selected papers:__
 [Acute Kidney Injury Detection (EJCTS 2022)](https://academic.oup.com/ejcts/article-abstract/62/5/ezac289/6581706) ·

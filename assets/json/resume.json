@@ -106,6 +106,20 @@
 ,
   "awards": [
   {
+    "title": "Best Industry Paper Award",
+    "date": "2026-05-01",
+    "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2026)",
+    "url": "https://doi.org/10.1145/3777884.3796983",
+    "summary": "For the paper 'Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization.'"
+  },
+  {
+    "title": "Best Student Paper Award",
+    "date": "2025-09-01",
+    "awarder": "IEEE International Conference on e-Science (eScience 2025)",
+    "url": "",
+    "summary": "For the paper 'Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption' (co-author)."
+  },
+  {
     "title": "Best Teacher Award",
     "date": "2025-04-30",
     "awarder": "Department of Computer Science, Illinois Institute of Technology",
@@ -120,6 +134,13 @@
     "summary": "The GAIN conference connects internationally mobile German scientists with representatives from the scientific community, politics, and industry."
   },
   {
+    "title": "Runner-up for Best Data Challenge Paper",
+    "date": "2023-04-01",
+    "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2023)",
+    "url": "",
+    "summary": "For the paper 'Efficient Data Processing: Assessing the Performance of Different Programming Languages.'"
+  },
+  {
     "title": "SPECtacular Award",
     "date": "2023-02-01",
     "awarder": "Standard Performance Evaluation Corporation (SPEC)",
@@ -132,6 +153,13 @@
     "awarder": "German Scholars Organization",
     "url": "",
     "summary": "The Leadership Academy Fellowship is awarded to 25 outstanding researchers from all disciplines."
+  },
+  {
+    "title": "Best Industry Paper Award",
+    "date": "2022-04-01",
+    "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2022)",
+    "url": "https://dl.acm.org/doi/10.1145/3489525.3511680",
+    "summary": "For the paper 'Why Is It Not Solved Yet? Challenges for Production-Ready Autoscaling.'"
   },
   {
     "title": "SPEC Kaivalya Dixit Distinguished Dissertation Award",
