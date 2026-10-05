@@ -16,186 +16,243 @@
     }
   },
   "work": [
-  {
-    "name": "University of Chicago Booth School of Business, Chicago, United States",
-    "position": "Visiting Assistant Professor of Econometrics and Statistics",
-    "url": "",
-    "startDate": "2026-09-17",
-    "endDate": "",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "name": "Illinois Institute of Technology, Chicago, United States",
-    "position": "Assistant Professor",
-    "url": "",
-    "startDate": "2024-08-12",
-    "endDate": "2026-08-11",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "name": "Argonne National Laboratory, Lemont, United States",
-    "position": "Associated Researcher",
-    "url": "",
-    "startDate": "2023-01-01",
-    "endDate": "2024-08-11",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "name": "University of Chicago, Chicago, United States",
-    "position": "Postdoctoral Scholar (Prof. Ian Foster)",
-    "url": "",
-    "startDate": "2022-11-01",
-    "endDate": "2024-08-11",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "name": "University of Würzburg, Würzburg, Germany",
-    "position": "Research Group Leader (Prof. Samuel Kounev)",
-    "url": "",
-    "startDate": "2021-01-01",
-    "endDate": "2022-10-01",
-    "summary": "",
-    "highlights": []
-  },
-  {
-    "name": "University of Würzburg, Würzburg, Germany",
-    "position": "Research Assistant (Prof. Samuel Kounev)",
-    "url": "",
-    "startDate": "2016-10-01",
-    "endDate": "2020-12-01",
-    "summary": "",
-    "highlights": []
-  }
-],
+    {
+      "name": "University of Chicago Booth School of Business, Chicago, United States",
+      "position": "Visiting Assistant Professor of Econometrics and Statistics",
+      "url": "",
+      "startDate": "2026-09-17",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Illinois Institute of Technology, Chicago, United States",
+      "position": "Assistant Professor",
+      "url": "",
+      "startDate": "2024-08-12",
+      "endDate": "2026-08-11",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Argonne National Laboratory, Lemont, United States",
+      "position": "Associated Researcher",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-08-11",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Chicago, Chicago, United States",
+      "position": "Postdoctoral Scholar (Prof. Ian Foster)",
+      "url": "",
+      "startDate": "2022-11-01",
+      "endDate": "2024-08-11",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Würzburg, Würzburg, Germany",
+      "position": "Research Group Leader (Prof. Samuel Kounev)",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2022-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Würzburg, Würzburg, Germany",
+      "position": "Research Assistant (Prof. Samuel Kounev)",
+      "url": "",
+      "startDate": "2016-10-01",
+      "endDate": "2020-12-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
-  {
-    "institution": "University of Würzburg, Würzburg, Germany",
-    "url": "",
-    "area": "Computer Science",
-    "studyType": "Doctor rerum naturalium / PhD",
-    "startDate": "2016-10-01",
-    "endDate": "2020-12-01",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "University of Würzburg, Würzburg, Germany",
-    "url": "",
-    "area": "Computer Science",
-    "studyType": "Master of Science",
-    "startDate": "2014-10-01",
-    "endDate": "2016-09-01",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "University of Würzburg, Würzburg, Germany",
-    "url": "",
-    "area": "Computer Science",
-    "studyType": "Bachelor of Science",
-    "startDate": "2012-10-01",
-    "endDate": "2014-09-30",
-    "score": "",
-    "courses": []
-  }
-]
-,
+    {
+      "institution": "University of Würzburg, Würzburg, Germany",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Doctor rerum naturalium / PhD",
+      "startDate": "2016-10-01",
+      "endDate": "2020-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Würzburg, Würzburg, Germany",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2014-10-01",
+      "endDate": "2016-09-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Würzburg, Würzburg, Germany",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-10-01",
+      "endDate": "2014-09-30",
+      "score": "",
+      "courses": []
+    }
+  ],
   "awards": [
-  {
-    "title": "Best Industry Paper Award",
-    "date": "2026-05-01",
-    "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2026)",
-    "url": "https://doi.org/10.1145/3777884.3796983",
-    "summary": "For the paper 'Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization.'"
-  },
-  {
-    "title": "Best Student Paper Award",
-    "date": "2025-09-01",
-    "awarder": "IEEE International Conference on e-Science (eScience 2025)",
-    "url": "",
-    "summary": "For the paper 'Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption' (co-author)."
-  },
-  {
-    "title": "Best Teacher Award",
-    "date": "2025-04-30",
-    "awarder": "Department of Computer Science, Illinois Institute of Technology",
-    "url": "",
-    "summary": "Each year the department selects the best teacher."
-  },
-  {
-    "title": "GAIN Participation Grant",
-    "date": "2023-05-01",
-    "awarder": "German Academic International Network (GAIN)",
-    "url": "",
-    "summary": "The GAIN conference connects internationally mobile German scientists with representatives from the scientific community, politics, and industry."
-  },
-  {
-    "title": "Runner-up for Best Data Challenge Paper",
-    "date": "2023-04-01",
-    "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2023)",
-    "url": "",
-    "summary": "For the paper 'Efficient Data Processing: Assessing the Performance of Different Programming Languages.'"
-  },
-  {
-    "title": "SPECtacular Award",
-    "date": "2023-02-01",
-    "awarder": "Standard Performance Evaluation Corporation (SPEC)",
-    "url": "",
-    "summary": "The SPECtacular Award is given to individuals who have significantly exceeded expectations in their contributions to SPEC."
-  },
-  {
-    "title": "Leadership Academy Fellowship",
-    "date": "2023-01-01",
-    "awarder": "German Scholars Organization",
-    "url": "",
-    "summary": "The Leadership Academy Fellowship is awarded to 25 outstanding researchers from all disciplines."
-  },
-  {
-    "title": "Best Industry Paper Award",
-    "date": "2022-04-01",
-    "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2022)",
-    "url": "https://dl.acm.org/doi/10.1145/3489525.3511680",
-    "summary": "For the paper 'Why Is It Not Solved Yet? Challenges for Production-Ready Autoscaling.'"
-  },
-  {
-    "title": "SPEC Kaivalya Dixit Distinguished Dissertation Award",
-    "date": "2022-04-01",
-    "awarder": "Standard Performance Evaluation Corporation (SPEC)",
-    "url": "",
-    "summary": "This annual award recognizes one outstanding doctoral dissertation within the scope of the SPEC Research Group in terms of scientific originality, scientific significance, practical relevance, impact, and presentation."
-  },
-  {
-    "title": "Distinguished Dissertation Award",
-    "date": "2021-07-01",
-    "awarder": "Faculty of Mathematics and Computer Science, University of Würzburg",
-    "url": "",
-    "summary": "An annual award for outstanding dissertations from the Faculty of Mathematics and Computer Science."
-  },
-  {
-    "title": "Dissertation Award",
-    "date": "2021-05-01",
-    "awarder": "Unterfränkische Gedenkjahrstiftung für Wissenschaft",
-    "url": "",
-    "summary": "An annual award for outstanding dissertations from all disciplines."
-  },
-  {
-    "title": "Summa cum laude",
-    "date": "2020-12-01",
-    "awarder": "University of Würzburg",
-    "url": "",
-    "summary": "Grading of the doctoral thesis 'Automated Hybrid Time Series Forecasting: Design, Benchmarking, and Use Cases.'"
-  },
-  {
-    "title": "Winner of the FameLab State of Bavaria Final",
-    "date": "2020-03-01",
-    "awarder": "British Council",
-    "url": "",
-    "summary": "In this science communication competition, researchers present their work in three minutes in an understandable and humorous way."
-  }
+    {
+      "title": "Best Industry Paper Award",
+      "date": "2026-05-01",
+      "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2026)",
+      "url": "https://doi.org/10.1145/3777884.3796983",
+      "summary": "For the paper 'Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization.'"
+    },
+    {
+      "title": "Best Student Paper Award",
+      "date": "2025-09-01",
+      "awarder": "IEEE International Conference on e-Science (eScience 2025)",
+      "url": "",
+      "summary": "For the paper 'Efficient Privacy-Preserving Recommendation on Sparse Data using Fully Homomorphic Encryption' (co-author)."
+    },
+    {
+      "title": "Best Teacher Award",
+      "date": "2025-04-30",
+      "awarder": "Department of Computer Science, Illinois Institute of Technology",
+      "url": "",
+      "summary": "Each year the department selects the best teacher."
+    },
+    {
+      "title": "GAIN Participation Grant",
+      "date": "2023-05-01",
+      "awarder": "German Academic International Network (GAIN)",
+      "url": "",
+      "summary": "The GAIN conference connects internationally mobile German scientists with representatives from the scientific community, politics, and industry."
+    },
+    {
+      "title": "Runner-up for Best Data Challenge Paper",
+      "date": "2023-04-01",
+      "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2023)",
+      "url": "",
+      "summary": "For the paper 'Efficient Data Processing: Assessing the Performance of Different Programming Languages.'"
+    },
+    {
+      "title": "SPECtacular Award",
+      "date": "2023-02-01",
+      "awarder": "Standard Performance Evaluation Corporation (SPEC)",
+      "url": "",
+      "summary": "The SPECtacular Award is given to individuals who have significantly exceeded expectations in their contributions to SPEC."
+    },
+    {
+      "title": "Leadership Academy Fellowship",
+      "date": "2023-01-01",
+      "awarder": "German Scholars Organization",
+      "url": "",
+      "summary": "The Leadership Academy Fellowship is awarded to 25 outstanding researchers from all disciplines."
+    },
+    {
+      "title": "Best Industry Paper Award",
+      "date": "2022-04-01",
+      "awarder": "ACM/SPEC International Conference on Performance Engineering (ICPE 2022)",
+      "url": "https://dl.acm.org/doi/10.1145/3489525.3511680",
+      "summary": "For the paper 'Why Is It Not Solved Yet? Challenges for Production-Ready Autoscaling.'"
+    },
+    {
+      "title": "SPEC Kaivalya Dixit Distinguished Dissertation Award",
+      "date": "2022-04-01",
+      "awarder": "Standard Performance Evaluation Corporation (SPEC)",
+      "url": "",
+      "summary": "This annual award recognizes one outstanding doctoral dissertation within the scope of the SPEC Research Group in terms of scientific originality, scientific significance, practical relevance, impact, and presentation."
+    },
+    {
+      "title": "Distinguished Dissertation Award",
+      "date": "2021-07-01",
+      "awarder": "Faculty of Mathematics and Computer Science, University of Würzburg",
+      "url": "",
+      "summary": "An annual award for outstanding dissertations from the Faculty of Mathematics and Computer Science."
+    },
+    {
+      "title": "Dissertation Award",
+      "date": "2021-05-01",
+      "awarder": "Unterfränkische Gedenkjahrstiftung für Wissenschaft",
+      "url": "",
+      "summary": "An annual award for outstanding dissertations from all disciplines."
+    },
+    {
+      "title": "Summa cum laude",
+      "date": "2020-12-01",
+      "awarder": "University of Würzburg",
+      "url": "",
+      "summary": "Grading of the doctoral thesis 'Automated Hybrid Time Series Forecasting: Design, Benchmarking, and Use Cases.'"
+    },
+    {
+      "title": "Winner of the FameLab State of Bavaria Final",
+      "date": "2020-03-01",
+      "awarder": "British Council",
+      "url": "",
+      "summary": "In this science communication competition, researchers present their work in three minutes in an understandable and humorous way."
+    }
+  ],
+  "projects": [
+    {
+      "name": "NSF CRII: Co-Simulation-Based Optimization of Container Orchestration Platforms",
+      "startDate": "2025-08-15",
+      "endDate": "2027-07-31",
+      "summary": "PI. National Science Foundation, award CNS-2451392, $150,000.",
+      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2451392",
+      "highlights": []
+    },
+    {
+      "name": "MINERVA: Performance Prediction of Microservice Applications with Black-box Container Orchestration",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "Co-PI with Prof. Samuel Kounev. DFG (German Research Foundation), project 510552229, $347,235 (€322,096).",
+      "url": "https://gepris.dfg.de/gepris/projekt/510552229",
+      "highlights": []
+    },
+    {
+      "name": "Google Research Grant: Assessing Microservice Applications Performance for Benchmarking",
+      "startDate": "2025-05-01",
+      "endDate": "2025-05-01",
+      "summary": "PI. Google Cloud credits, $5,000.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Google Research Grant: Performance Analysis and Prediction of Microservices in Cloud Environments",
+      "startDate": "2023-03-01",
+      "endDate": "2023-03-01",
+      "summary": "PI. Google Cloud credits, $1,000.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Self-Configuring Autoscaler (extension), industrial project with DATEV eG",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "Assisted with the acquisition as group leader; $30,068, 3 months.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Self-Configuring Autoscaler, industrial project with DATEV eG",
+      "startDate": "2021-07-01",
+      "endDate": "2022-01-01",
+      "summary": "Assisted with the acquisition as group leader; $71,200, 6 months.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Prediction of Winter Mortality of Bee Colonies Using Machine Learning",
+      "startDate": "2021-04-01",
+      "endDate": "2021-04-01",
+      "summary": "PI. Normalverfahren Grant, Universitätsbund Würzburg, $3,234.",
+      "url": "",
+      "highlights": []
+    }
   ],
   "service": [
     {

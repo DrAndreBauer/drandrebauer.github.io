@@ -11,6 +11,7 @@ profile:
   location: University of Chicago Booth School of Business, US
   email: andre.bauer@chicagobooth.edu
   googlescholar: https://scholar.google.com/citations?user=E8LJS8UAAAAJ
+  uri: https://www.chicagobooth.edu/faculty/directory/b/andre-bauer
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
