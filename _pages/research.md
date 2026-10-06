@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-My research makes the infrastructure behind modern AI efficient, predictable, and trustworthy. I study how real systems behave, from container platforms and microservices to LLM-based applications, by measuring and benchmarking them, and I combine these insights with forecasting and machine learning to build systems that behave reliably in terms of cost, latency, and correctness.
+My research makes the infrastructure behind modern AI efficient, predictable, and trustworthy. I study how real systems behave, from container platforms and microservices to LLM-based applications, by measuring and benchmarking them, and I combine these insights with forecasting and machine learning to build systems that behave reliably in terms of cost, latency, and correctness. My work covers three layers of the AI serving stack, the infrastructure that runs the workloads, the LLM-based applications on top of it, and the measurement and prediction methods between the two.
 
 ### Efficient AI and Cloud Infrastructure
 

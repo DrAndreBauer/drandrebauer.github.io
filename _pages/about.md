@@ -22,7 +22,7 @@ I am a Visiting Assistant Professor of Econometrics and Statistics at the [Unive
 
 My research is in performance engineering for AI and cloud systems. My goal is to make the infrastructure behind modern AI efficient, predictable, and trustworthy, so that systems not only run fast but also behave reliably in terms of cost, latency, and correctness. To this end, I combine systems measurement and benchmarking with forecasting and machine learning.
 
-My current work focuses on three directions:
+My work covers three layers of the AI serving stack, the infrastructure that runs the workloads, the LLM-based applications on top of it, and the measurement and prediction methods between the two:
 * __Efficient AI and Cloud Infrastructure__: Understanding and optimizing how AI workloads run on container platforms, from GenAI inference on Kubernetes to container start-up and proactive auto-scaling based on workload forecasts.
 * __Reliable AI with Guarantees__: Making LLM-based systems dependable, for example through LLM routing with distribution-free safety guarantees, fault-tolerant transformer inference, and structured LLM inference for high-stakes domains such as mental health.
 * __Performance Prediction and Observability__: Predicting and explaining the performance of microservice applications, including their transient behavior under auto-scaling, composable observability queries, and LLM-based workflows for root cause analysis.
