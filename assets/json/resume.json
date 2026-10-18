@@ -54,7 +54,7 @@
     },
     {
       "name": "University of Würzburg, Würzburg, Germany",
-      "position": "Research Group Leader (Prof. Samuel Kounev)",
+      "position": "Postdoctoral Scholar (Prof. Samuel Kounev)",
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2022-10-01",
@@ -209,7 +209,7 @@
       "name": "MINERVA: Performance Prediction of Microservice Applications with Black-box Container Orchestration",
       "startDate": "2023-01-01",
       "endDate": "",
-      "summary": "Co-PI with Prof. Samuel Kounev. DFG (German Research Foundation), project 510552229, $347,235 (€322,096).",
+      "summary": "Co-PI with Prof. Samuel Kounev. DFG (German Research Foundation), project 510552229, my share $347,235 (€322,096).",
       "url": "https://gepris.dfg.de/gepris/projekt/510552229",
       "highlights": []
     },
@@ -230,22 +230,6 @@
       "highlights": []
     },
     {
-      "name": "Self-Configuring Autoscaler (extension), industrial project with DATEV eG",
-      "startDate": "2022-05-01",
-      "endDate": "2022-08-01",
-      "summary": "Assisted with the acquisition as group leader; $30,068, 3 months.",
-      "url": "",
-      "highlights": []
-    },
-    {
-      "name": "Self-Configuring Autoscaler, industrial project with DATEV eG",
-      "startDate": "2021-07-01",
-      "endDate": "2022-01-01",
-      "summary": "Assisted with the acquisition as group leader; $71,200, 6 months.",
-      "url": "",
-      "highlights": []
-    },
-    {
       "name": "Prediction of Winter Mortality of Bee Colonies Using Machine Learning",
       "startDate": "2021-04-01",
       "endDate": "2021-04-01",
@@ -259,6 +243,26 @@
       "title": "Founder and Chair, Predictive Data Analytics Group",
       "institution": "SPEC Research Group",
       "year": "06/2021–present"
+    },
+    {
+      "title": "Faculty Hiring Committee, Mumbai Campus",
+      "institution": "Illinois Institute of Technology",
+      "year": "05/2026–08/2026"
+    },
+    {
+      "title": "Chair, CS Seminars Committee",
+      "institution": "Department of Computer Science, Illinois Institute of Technology",
+      "year": "08/2025–08/2026"
+    },
+    {
+      "title": "Faculty Co-Advisor, Upsilon Pi Epsilon (Illinois Tech Chapter)",
+      "institution": "Illinois Institute of Technology",
+      "year": "05/2025–08/2026"
+    },
+    {
+      "title": "PhD Recruitment and Experience Committee",
+      "institution": "Department of Computer Science, Illinois Institute of Technology",
+      "year": "08/2024–08/2026"
     },
     {
       "title": "Program Committee",
